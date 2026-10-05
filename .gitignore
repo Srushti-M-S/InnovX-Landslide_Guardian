@@ -1,0 +1,24 @@
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build output
+dist/
+build/
+
+# Environment variables
+.env
+.env.local
+
+# Python cache & venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.sqlite3
+
+# IDE / System
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
