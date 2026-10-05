@@ -87,15 +87,5 @@ Open your browser and visit: **`http://localhost:5173`**
 
 ---
 
-## 🧪 Demonstration Steps for SIH Presentation
-
-1. **Launch Website**: Open `http://localhost:5173/` to view the **InnovX Landslide Guardian** landing page.
-2. **Open Dashboard**: Navigate to the Monitoring Dashboard to observe real-time metrics, risk trend charts, and the interactive GIS map.
-3. **Select Tawang**: Click on **Tawang** to view its baseline status (Risk: 42/100 MODERATE).
-4. **Trigger Live Simulation**: Click **"START RISK SIMULATION"** at the top bar. Watch rainfall, soil moisture, and risk score dynamically surge to **82 (CRITICAL)**, generating an emergency alert.
-5. **Inspect Response Priority**: Switch to the **Response Priority** tab to verify Tawang moving to Rank #1 for emergency team deployment.
-6. **Test Offline Hazard Reporting**: Switch to **Field Report**, toggle **OFFLINE MODE**, submit a slope crack report, and click **SYNC NOW** to watch it pin directly to the GIS map.
-
----
 
 Built for Disaster Risk Reduction & Early Warning in the North Eastern Region of India.
